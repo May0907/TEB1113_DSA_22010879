@@ -1,6 +1,6 @@
 // ID: 22010879 
 // NAME: CHEAH SUET MAY
-// EMAIL: CHEAH_22010879@utp.edu.my
+// EMAIL: CHEAH_22010879@UTP.EDU.MY
 // LAB: 1
 #include <iostream>
 #include <string>
